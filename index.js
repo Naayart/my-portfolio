@@ -6,3 +6,4 @@ if (mobileMenuButton) {
     mobileNav.classList.toggle("hidden");
   });
 }
+
